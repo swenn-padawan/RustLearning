@@ -65,7 +65,3 @@ fn main() -> Result<(), std::io::Error> {
     println!("{}", result);
     Ok(())
 }
-
-
-
-
